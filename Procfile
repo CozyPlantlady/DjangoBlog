@@ -1,0 +1,1 @@
+web: gunicorn cozy-plantlady-blog-app.wsgi
